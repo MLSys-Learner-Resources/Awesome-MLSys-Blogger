@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://JerryYin777.github.io/Awesome-MLSys-Blogger/</loc>
+         <loc>https://MLSys-Learner-Resources.github.io/Awesome-MLSys-Blogger/</loc>
+         <lastmod>2025-01-05</lastmod>
+    </url>
+    <url>
+         <loc>https://MLSys-Learner-Resources.github.io/Awesome-MLSys-Blogger/about/</loc>
          <lastmod>2025-01-05</lastmod>
     </url>
 </urlset>
