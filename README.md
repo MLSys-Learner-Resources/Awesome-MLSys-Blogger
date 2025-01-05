@@ -16,9 +16,9 @@ P.S. 欢迎大家自荐或推荐，亦可提出PR，我们一起共同建设一�
 
 2. [手抓饼熊](https://www.zhihu.com/people/tongsanpang)：知乎著名MLSys专家。
 
-3. InterestingLSY（[主页](https://interestinglsy.github.io/)）：DistServe（我今年最喜欢的一篇之一）/LoongServe/Mirage/RLHFFuse作者。
+3. InterestingLSY（[主页](https://interestinglsy.github.io/)）：DistServe/LoongServe/Mirage/RLHFFuse作者。
 
-4. Yinmin Zhong （[主页](https://yinminzhong.com/)）：DistServe/LoongServe/RLHFFuse/DistTrain/Megascale作者，值得一提的是，他还是著名的开源学习项目CSDiy.wiki的作者。
+4. Yinmin Zhong （[主页](https://yinminzhong.com/)）：DistServe/LoongServe/RLHFFuse/DistTrain/Megascale作者，值得一提的是，他还是著名的开源学习项目CsDiy.wiki的作者。
 
 5. [赵轩磊](https://www.zhihu.com/people/chui-zou-liao-ka-pei)：Colossal-AI/VideoSys/OpenDiT（现在应该改名叫OpenSora了）作者，并行训练/视频推理。
 

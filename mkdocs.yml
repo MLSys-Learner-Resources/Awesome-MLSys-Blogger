@@ -1,5 +1,9 @@
 site_name: Awesome-MLSys-Blogger
 site_url: https://MLSys-Learner-Resources.github.io/Awesome-MLSys-Blogger/
+
+repo_name: Awesome-MLSys-Resources
+repo_url: https://github.com/MLSys-Learner-Resources/Awesome-MLSys-Blogger
+
 theme:
   name: material
   palette:
@@ -31,4 +35,16 @@ markdown_extensions:
   - pymdownx.details
 
 nav:
+  - About: about.md
   - Home: index.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/MLSys-Learner-Resources/Awesome-MLSys-Blogger
+      name: View on GitHub
+    - icon: fontawesome/solid/envelope
+      link: mailto:yin00486@umn.edu
+
+  logo: images/logo.png
+  favicon: images/favicon.ico
