@@ -1,6 +1,6 @@
 # Awesome-MLSys-Blogger
 
-网页链接：
+网页链接：https://mlsys-learner-resources.github.io/Awesome-MLSys-Blogger/
 
 
 分享我个人在机器学习系统（MLSys）领域推荐关注的一些优秀资源，包括学术界的教授、业界专家、以及优秀的同龄人和博士生（排名不分先后）。我将这些推荐内容大致分为两个方面：系统与算法（请注意，我个人的研究重点偏向算法领域，系统方面的推荐可能有所不足）。如果有遗漏或不完全之处，恳请大家在issue中提出，非常感谢。
