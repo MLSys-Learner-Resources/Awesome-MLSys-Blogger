@@ -1,8 +1,5 @@
 # Awesome-MLSys-Blogger
 
-网页链接：
-
-
 分享我个人在机器学习系统（MLSys）领域推荐关注的一些优秀资源，包括学术界的教授、业界专家、以及优秀的同龄人和博士生（排名不分先后）。我将这些推荐内容大致分为两个方面：系统与算法（请注意，我个人的研究重点偏向算法领域，系统方面的推荐可能有所不足）。如果有遗漏或不完全之处，恳请大家在issue中提出，非常感谢。
 
 考虑到隐私因素，若列表中的朋友不希望被推荐，请联系[我](yin00486@umn.edu)，我会立即删除相关信息，感谢理解。
@@ -105,7 +102,7 @@ P.S. 欢迎大家自荐或推荐，亦可提出PR，我们一起共同建设一�
 46. [紫气东来](https://www.zhihu.com/people/zi-qi-dong-lai-1)：解读非常细致！新手友好向！
 
 ## 算法方向
-1. [sonta](https://www.zhihu.com/people/buhezuobugaoxing)：小迷弟肯定把Sonta小姐姐放第一个，主要做Linear Attention，GLA/GSA/DeltaNet/HGRN2作者，如果想入坑Linear Attn可以看小姐姐知乎/博客，MIT PhD。
+1. [sonta](https://www.zhihu.com/people/buhezuobugaoxing)：Linear Attention，GLA/GSA/DeltaNet/HGRN2作者，如果想入坑Linear Attn可以看小姐姐知乎/博客，MIT PhD。
 
 2. [yzhangcs](https://www.zhihu.com/people/yzhangcs)：Linear Attention too, GSA/FLA库作者，苏州大学PhD。
 
@@ -119,40 +116,40 @@ P.S. 欢迎大家自荐或推荐，亦可提出PR，我们一起共同建设一�
 
 7. [Weilin Zhao](https://brawny-college-5b2.notion.site/Weilin-Zhao-11d20b7deb8280388213d5f5ed072992)：给ex-Mentor推一个，Ouroboros/CA-LoRA/Seq1F1B/BMTrain/作者，THUNLP PhD。
 
-7.5. [SageAttention2](https://github.com/thu-ml/SageAttention)：Work很Nice，但作者们不怎么写东西，开一个7.5，THU-ML组。
+8. [SageAttention2](https://github.com/thu-ml/SageAttention)：Work很Nice，但作者们不怎么写东西，开一个7.5，THU-ML组。
 
-8. Song Han（[主页](https://hanlab.mit.edu/blog)）：AWQ/SVDQuant/EfficientViT/QServe/DuoAttention/StreamingLLM等作者（导师），量化/推理方面的专家，手下学生如Ligeng Zhu/Zhijian Liu/Hanrui Wang同样水平非常高，MIT AP。
+9. Song Han（[主页](https://hanlab.mit.edu/blog)）：AWQ/SVDQuant/EfficientViT/QServe/DuoAttention/StreamingLLM等作者（导师），量化/推理方面的专家，手下学生如Ligeng Zhu/Zhijian Liu/Hanrui Wang同样水平非常高，MIT AP。
 
-9. Hazy Research/Christopher Ré ([主页](https://hazyresearch.stanford.edu/blog))：NLP/MLSys，工作比较杂，Tri Dao/Beidi（PostDoc）/Dan Fu导师，很多有趣的Efficiency Work，Stanford Professor。
+10. Hazy Research/Christopher Ré ([主页](https://hazyresearch.stanford.edu/blog))：NLP/MLSys，工作比较杂，Tri Dao/Beidi（PostDoc）/Dan Fu导师，很多有趣的Efficiency Work，Stanford Professor。
 
-10. Sasha Rush ([主页](https://www.youtube.com/@srush_nlp))：NLP/MLSys，工作比较杂，但做一些很有趣的Efficiency Work，Cornell Professor。
+11. Sasha Rush ([主页](https://www.youtube.com/@srush_nlp))：NLP/MLSys，工作比较杂，但做一些很有趣的Efficiency Work，Cornell Professor。
 
-11. Atlas Wang（[主页](https://vita-group.github.io/)）：GaLore作者（导师），产量巨高，UTA AP。
+12. Atlas Wang（[主页](https://vita-group.github.io/)）：GaLore作者（导师），产量巨高，UTA AP。
 
-12. Beidi Chen（[主页](https://keroro824.github.io/lab-page/)）：ShadowKV/MagicPig/H2O/Deja Vu作者，量化/推理都做，高产，CMU AP。
+13. Beidi Chen（[主页](https://keroro824.github.io/lab-page/)）：ShadowKV/MagicPig/H2O/Deja Vu作者，量化/推理都做，高产，CMU AP。
 
-13. Celine Lin（[主页](https://eiclab.scs.gatech.edu/pages/publication.html)）：各种各样的Efficiency，软硬件都做，Gatech AP。
+14. Celine Lin（[主页](https://eiclab.scs.gatech.edu/pages/publication.html)）：各种各样的Efficiency，软硬件都做，Gatech AP。
 
-14. Tim Dettmers（[主页](https://timdettmers.com/about/)）：LoRA & LLM.int8()作者，量化滴神（但似乎跑去做Agentic AI了），UW PhD，Incoming CMU AP。
+15. Tim Dettmers（[主页](https://timdettmers.com/about/)）：LoRA & LLM.int8()作者，量化滴神（但似乎跑去做Agentic AI了），UW PhD，Incoming CMU AP。
 
-15. Hao Zhang（[主页](https://cseweb.ucsd.edu/~haozhang/)）：OSD等工作作者，UCSD AP。
+16. Hao Zhang（[主页](https://cseweb.ucsd.edu/~haozhang/)）：OSD等工作作者，UCSD AP。
 
-15.5 DeepSeek MLA：MLA今年表现亮眼。
+17. DeepSeek MLA：MLA今年表现亮眼。
 
-16. [Lin Zhang](https://www.zhihu.com/people/lin-zhang-52-62/answers)：NLP/MLsys：系统/算法都有很多很好的文章。
+18. [Lin Zhang](https://www.zhihu.com/people/lin-zhang-52-62/answers)：NLP/MLsys：系统/算法都有很多很好的文章。
 
-17. [CS二猹树](https://www.zhihu.com/people/tang-san-56-49)：LLM压缩 & 量化，HKUST PostDoc。
+19. [CS二猹树](https://www.zhihu.com/people/tang-san-56-49)：LLM压缩 & 量化，HKUST PostDoc。
 
-18. [pprp](https://www.zhihu.com/people/peijieDong)：LLM压缩 & 量化。
+20. [pprp](https://www.zhihu.com/people/peijieDong)：LLM压缩 & 量化。
 
-19. [水木皇工仔](https://www.zhihu.com/people/shui-mu-huang-gong-zi)：LLM量化，也做系统，incoming爱丁堡PhD。
+21. [水木皇工仔](https://www.zhihu.com/people/shui-mu-huang-gong-zi)：LLM量化，也做系统，incoming爱丁堡PhD。
 
-20. [pika-jy](https://www.zhihu.com/people/cjy-54-53)：[pika-jy：DeepSeek-V2 MLA KV Cache 真的省了吗？](https://zhuanlan.zhihu.com/p/714761319)非常Nice。
+22. [pika-jy](https://www.zhihu.com/people/cjy-54-53)：[pika-jy：DeepSeek-V2 MLA KV Cache 真的省了吗？](https://zhuanlan.zhihu.com/p/714761319)非常Nice。
 
-21. [LiteAI](https://www.zhihu.com/people/liteai)：量化LLM & 端侧部署，华为。
+23. [LiteAI](https://www.zhihu.com/people/liteai)：量化LLM & 端侧部署，华为。
 
-22. [Amir Gholami](https://amirgholami.org/)：Squeezed Attention作者（导师），算法 & 系统都做，UCB Research Scientist。
+24. [Amir Gholami](https://amirgholami.org/)：Squeezed Attention作者（导师），算法 & 系统都做，UCB Research Scientist。
 
-23. [王鸿钰](https://www.zhihu.com/people/gu-ren-gui-xu): BitNet系列作者。
+25. [王鸿钰](https://www.zhihu.com/people/gu-ren-gui-xu): BitNet系列作者。
 
-24. [Zirui's Homepage](https://zirui-ray-liu.github.io/)：KIVI作者，2bit量化，UMN AP。
+26. [Zirui's Homepage](https://zirui-ray-liu.github.io/)：KIVI作者，2bit量化，UMN AP。
